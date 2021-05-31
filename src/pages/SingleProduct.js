@@ -30,7 +30,6 @@ const SingleProduct = () => {
   } = useProductsContext()
 
   useEffect(() => {
-    console.log('dddddddddddddddddddddddddddddddddddddddddddddd')
     fetchSingleProduct(`${url}${id}`)
   }, [id])
 

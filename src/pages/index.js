@@ -6,6 +6,7 @@ import Error from './Error'
 import Checkout from './Checkout'
 import Private from './Private'
 import Cart from './Cart'
+import AuthWrapper from './AuthWrapper'
 
 export {
   ProductsPage,
@@ -16,4 +17,5 @@ export {
   Checkout,
   Private,
   Cart,
+  AuthWrapper,
 }
