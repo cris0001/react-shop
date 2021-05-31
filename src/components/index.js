@@ -18,9 +18,11 @@ import CartContent from './CartContent'
 import CartItem from './CartItem'
 import CartColumns from './CartColumns'
 import CartTotal from './CartTotal'
+import StripeCheckout from './StripeCheckout'
 
 export {
   Navbar,
+  StripeCheckout,
   Sidebar,
   Footer,
   PageHero,
