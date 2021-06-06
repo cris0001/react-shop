@@ -1,3 +1,1 @@
-problem z wrzuceniem na netlify, 
-projekt robiony na zwór: https://react-course-comfy-sloth-store.netlify.app
-
+https://react-shop-cris0001.netlify.app
